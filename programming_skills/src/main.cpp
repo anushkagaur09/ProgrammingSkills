@@ -10,7 +10,7 @@
 // ---- START VEXCODE CONFIGURED DEVICES ----
 // Robot Configuration:
 // [Name]               [Type]        [Port(s)]
-// rightFront           motor         6               
+// rightFront           motor         1               
 // leftFront            motor         3               
 // leftBack             motor         8               
 // rightBack            motor         14              
